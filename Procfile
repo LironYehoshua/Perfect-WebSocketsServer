@@ -1,1 +1,1 @@
-web: .build/release/WebSocketsServer --port $PORT
+web: .build/release/WebSocketsServer
