@@ -1,1 +1,1 @@
-web: .build/release/PerfectTemplate --port 8181
+web: .build/release/Perfect-WebSocketsServer --port 8181
