@@ -1,1 +1,1 @@
-web: .build/debug/WebSocketsServer --port 8181
+web: WebSocketsServer --port=$PORT
